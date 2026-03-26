@@ -1,1 +1,1 @@
-# langsmith_rag
+# LangChain RAG agent
